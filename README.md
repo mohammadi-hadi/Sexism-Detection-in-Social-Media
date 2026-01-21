@@ -1,6 +1,20 @@
-# Sexism Detection in Social Media - EXIST 2023
+<div align="center">
 
-This repository contains our submission for the EXIST 2023 shared task on sexism detection and categorization in social media.
+# Sexism Detection - EXIST 2023
+
+### Multi-Model Detection and Classification Pipeline for Online Sexism
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![CLEF 2023](https://img.shields.io/badge/CLEF-2023-blue.svg)](https://clef2023.clef-initiative.eu/)
+[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
+
+*Multi-model pipeline using BERT, XLM-RoBERTa, and DistilBERT for EXIST 2023 shared task*
+
+[Paper](https://ceur-ws.org/Vol-3497/paper-111.pdf) • [Code](https://zenodo.org/records/8144300) • [Website](https://mohammadi.cv)
+
+---
+
+</div>
 
 ## Paper
 
@@ -63,4 +77,4 @@ MIT License
 ## Contact
 
 - Hadi Mohammadi - [h.mohammadi@uu.nl](mailto:h.mohammadi@uu.nl)
-- Website: [mohammadi-hadi.github.io](https://mohammadi-hadi.github.io)
+- Website: [mohammadi.cv](https://mohammadi.cv)
