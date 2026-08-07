@@ -3,6 +3,7 @@ message: "If you use this code, please cite the paper below."
 title: "Sexism Detection in Social Media with Multilingual Transformer Ensembles"
 type: software
 license: MIT
+date-released: "2023-07-13"
 repository-code: "https://github.com/mohammadi-hadi/Sexism-Detection-in-Social-Media"
 identifiers:
   - type: doi
@@ -11,12 +12,13 @@ identifiers:
 authors:
   - family-names: "Mohammadi"
     given-names: "Hadi"
+    orcid: "https://orcid.org/0000-0003-0860-9200"
     affiliation: "Utrecht University"
   - family-names: "Giachanou"
     given-names: "Anastasia"
     affiliation: "Utrecht University"
   - family-names: "Bagheri"
-    given-names: "Ayoub"
+    given-names: "Robert A."
     affiliation: "Utrecht University"
 preferred-citation:
   type: conference-paper
@@ -30,10 +32,11 @@ preferred-citation:
   authors:
     - family-names: "Mohammadi"
       given-names: "Hadi"
+      orcid: "https://orcid.org/0000-0003-0860-9200"
       affiliation: "Utrecht University"
     - family-names: "Giachanou"
       given-names: "Anastasia"
       affiliation: "Utrecht University"
     - family-names: "Bagheri"
-      given-names: "Ayoub"
+      given-names: "Robert A."
       affiliation: "Utrecht University"
