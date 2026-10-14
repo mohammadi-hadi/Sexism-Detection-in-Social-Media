@@ -93,7 +93,7 @@ The EXIST 2023 dataset is distributed by the task organizers and is **not includ
 
 - [Exist-2023](https://github.com/mohammadi-hadi/Exist-2023) — primary home of this code (identical notebook)
 - [Explainable-Sexism-Detection](https://github.com/mohammadi-hadi/Explainable-Sexism-Detection) — transparent sexism-detection pipeline with SHAP explanations (Applied Sciences, 2024)
-- [BehAv-PO](https://github.com/mohammadi-hadi/BehAv-PO) — behavioral cluster-driven multi-agent preference optimization for sexism detection (EXIST 2024)
+- [MAP-PO](https://github.com/mohammadi-hadi/MAP-PO) — behavioral cluster-driven multi-agent preference optimization for sexism detection (EXIST 2024)
 
 ## License
 
